@@ -1,0 +1,14 @@
+{
+  "name": "delta-hedge-lab",
+  "version": "1.0.0",
+  "description": "Monte Carlo study of what a delta-hedged option earns and how much of the result is noise.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
